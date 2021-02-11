@@ -9,5 +9,18 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "User": {
+    "instagram_username": "string",
+    "title": "string",
+    "first_name": "string",
+    "last_name": "string",
+    "email": "string",
+    "password": "string",
+    "country": "string",
+    "phone": "string",
+    "prefix": "string",
+    "is_seller": "boolean",
+    "news_letter_subscribed": "boolean"
   }
 }
